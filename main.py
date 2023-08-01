@@ -2,7 +2,6 @@ import random
 import pygame
 import os
 from pygame.constants import QUIT, K_DOWN, K_UP, K_RIGHT, K_LEFT
-
 pygame.init()
 
 FPS = pygame.time.Clock()
